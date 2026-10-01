@@ -32,3 +32,10 @@ npm run build
 npm run dev      # opens a Chrome instance with snip loaded and hot reload
 npm run check    # typecheck
 ```
+
+## Config
+
+Optional, and not part of snip: other Zen/Arc keys for Chrome on macOS.
+
+- `⌘⇧S` to capture: assign it to snip at `chrome://extensions/shortcuts`.
+- `⌘S` to collapse vertical tabs: in System Settings → Keyboard → Keyboard Shortcuts → App Shortcuts, add Google Chrome with the menu title `Collapse Vertical Tabs`.
