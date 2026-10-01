@@ -13,7 +13,7 @@ npm run build
 ```
 
 1. Open `chrome://extensions` and turn on **Developer mode**.
-2. Click **Load unpacked** and pick `.output/chrome-mv3`.
+2. Click **Load unpacked** and pick `dist/chrome-mv3`.
 3. Optional: pin snip to the toolbar, or change the shortcut at `chrome://extensions/shortcuts`.
 
 ## Develop
